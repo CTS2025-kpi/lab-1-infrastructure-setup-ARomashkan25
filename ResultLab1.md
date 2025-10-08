@@ -1,4 +1,4 @@
-<img width="212" height="21" alt="image" src="https://github.com/user-attachments/assets/923a58c5-efbe-4f60-93bc-87320ad25b0c" /><img width="212" height="21" alt="image" src="https://github.com/user-attachments/assets/3cf7b723-9402-4776-a895-1f59351ad624" /><img width="212" height="21" alt="image" src="https://github.com/user-attachments/assets/ab85e010-d58f-4ac1-be0d-6554cb08f5a0" />
+
 # Results Lab 1
 ---
 
