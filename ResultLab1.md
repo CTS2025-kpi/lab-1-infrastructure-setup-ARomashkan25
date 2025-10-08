@@ -152,7 +152,8 @@ Calculate monthly budget for lab 2, assuming there will be only 2 shards. (2 poi
 | Amazon API Gateway | 0.00 | HTTP API |
 | Amazon Elastic Block Store (EBS) | 16.14 | 1 volume, 125 GB, 730 hours/month, 2 snapshots/day |
 
-Загальний місячний бюджет: ≈ 19.79 USD
+Загальний місячний бюджет на один instance: = 19.79 USD
+За два instance = 19.79 * 2 = 39.58 USD
 
 ---
 
